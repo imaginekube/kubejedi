@@ -1,13 +1,10 @@
 site_name: Awesome DevOps
-site_url: http://awesome-devops.xyz
+site_url: https://imaginedevops.io
 site_description: A curated list of awesome DevOps platforms, tools, practices and resources
-site_author: Marius Stanca
-repo_name: awesome-devops
-repo_url: https://github.com/wmariuss/awesome-devops
-edit_uri: https://github.com/wmariuss/awesome-devops/blob/master
+site_author: Rob Le
+repo_name: kubejedi/imagine-devops
+repo_url: https://github.com/imaginekube/kubejedi/imagine-devops
 
-# Copyright
-copyright: "Copyright &copy; Awesome DevOps Community"
 
 # Theme
 theme:
@@ -41,9 +38,9 @@ extra:
     tabs: true
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/wmariuss
+      link: https://github.com/imaginedevops
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/wmariuss
+      link: https://twitter.com/imaginestudio
 
 extra_css:
   - stylesheets/syntax.css
@@ -57,7 +54,7 @@ plugins:
   - search:
       lang: en
   - git-committers:
-      repository: wmariuss/awesome-devops
+      repository: kubejedi/imagine-devops
       branch: master
   - git-authors
   # - git-revision-date-localized:

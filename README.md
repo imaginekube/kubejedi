@@ -1,10 +1,27 @@
-# Awesome DevOps
+  <div align="center">
 
-[![Awesome DevOps](http://awesome-devops.xyz/assets/banner.png)](https://github.com/wmariuss/awesome-devops)
+<img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="144px" height="144px"/>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Deploy](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/deploy.yml)
-[![Links validator](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml/badge.svg)](https://github.com/wmariuss/awesome-devops/actions/workflows/links-validator.yml)
+### Imagine Kubernetes :octocat:
+
+... managed with Ansible, Terraform, Flux, Argo, Jenkins, Renovate and GitHub Actions_ 🤖
+
+</div>
+
+<div align="center">
+
+[![Kubernetes](https://img.shields.io/badge/v1.26-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](https://k3s.io/)
+[![Renovate](https://img.shields.io/github/actions/workflow/status/onedr0p/home-ops/renovate.yaml?branch=main&label=&logo=renovatebot&style=for-the-badge&color=blue)](https://github.com/onedr0p/home-ops/actions/workflows/renovate.yaml)
+[![Imagine DevOps](https://img.shields.io/uptimerobot/status/m793494864-dfc695db066960233ac70f45?color=brightgreeen&label=Imagine%20DevOps&style=for-the-badge&logo=v&logoColor=white)](https://uptimerobot.com)
+[![Grafana](https://img.shields.io/uptimerobot/status/m792427620-04fcdd7089a84863ec9f398d?logo=grafana&logoColor=white&color=brightgreeen&label=Grafana&style=for-the-badge)](https://ln.devbu.io/tu0B6)
+
+</div>
+
+<h2 align="center"> 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-original-wordmark.svg" alt="k3s" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" alt="argo" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original-wordmark.svg" alt="packer" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="graphql" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="linux" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opensuse/opensuse-original-wordmark.svg" alt="opensuse" width="40" height="40"/></code></h2>
+
+
 
 > A curated list of platforms, tools, practices and resources to create, improve DevOps culture and SRE Team in the organization.
 
@@ -12,20 +29,21 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 
 ## Contents
 
+- [Contents](#contents)
 - [Cloud Platforms](#cloud-platforms)
 - [Open Source Cloud Platforms](#open-source-cloud-platforms)
 - [Operating Systems](#operating-systems)
 - [Distributed Filesystems](#distributed-filesystems)
 - [Applications Platforms](#applications-platforms)
 - [Container Image Registry](#container-image-registry)
-- [Automation & Orchestration](#automation--orchestration)
-- [Continuous Integration & Delivery](#continuous-integration--delivery)
+- [Automation \& Orchestration](#automation--orchestration)
+- [Continuous Integration \& Delivery](#continuous-integration--delivery)
 - [Source Code Management](#source-code-management)
 - [Web Servers](#web-servers)
 - [SSL](#ssl)
 - [Databases](#databases)
-- [Observability and Monitoring](#observability--monitoring)
-- [Service Discovery & Service Mesh](#service-discovery--service-mesh)
+- [Observability \& Monitoring](#observability--monitoring)
+- [Service Discovery \& Service Mesh](#service-discovery--service-mesh)
 - [Chaos Engineering](#chaos-engineering)
 - [API Gateway](#api-gateway)
 - [Code review](#code-review)
@@ -39,6 +57,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
   - [Books](#books)
   - [Conferences](#conferences)
   - [DevOps Roadmap](#devops-roadmap)
+- [Contributing](#contributing)
 
 ---
 

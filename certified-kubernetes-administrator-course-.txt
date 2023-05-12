@@ -1,1 +1,0 @@
-certified-kubernetes-administrator-course-master
