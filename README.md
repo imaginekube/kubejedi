@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="144px" height="144px"/>
 
-### Imagine Awesome DevOps :octocat:
+### Imagine Kube Jedi DevOps:octocat:
 
 ... a curated coollectors of platforms, tools, practices and resources to create, improve DevOps culture and SRE Team in the organization._ 🤖
 
